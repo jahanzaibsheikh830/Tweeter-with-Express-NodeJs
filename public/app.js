@@ -1,6 +1,6 @@
 
-// const url = 'https://realtimetweeter.herokuapp.com';
-const url = "http://192.168.50.84:3000";
+const url = 'https://server-class1.herokuapp.com';
+//const url = "http://192.168.50.84:3000";
 var userPost = document.getElementById("userPost");
 
 let currentUser;
